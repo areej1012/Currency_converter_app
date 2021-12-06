@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency converter app</string>
+    <string name="enter_euro_value">Enter EURO value</string>
+    <string name="date">Date:</string>
+</resources>
